@@ -1,2 +1,1 @@
-# Offer-Letter-Generator
-Offer Letter Generator UiPath
+This UiPath automation project generates personalized offer letters by collecting input data (such as candidate name, job title, salary, and joining date) and auto-fills a pre-designed Word template. The bot then saves the offer letter as a PDF and sends it via email if required.
